@@ -1,6 +1,6 @@
 package com.offer.codingInterviewGuide.arrayAndMatrix;
 
-import java.util.List;
+import java.util.*;
 
 /**
  * @Author Zeng Zhuo
@@ -11,7 +11,17 @@ import java.util.List;
 class Array10 {
 
     public List<List<String>> groupAnagrams(String[] strs) {
-
-        return null;
+        Map<String,List> map = new HashMap<>();
+        char[] chars = null;
+        String temp = null;
+        for(String s : strs){
+            chars = s.toCharArray();
+            Arrays.sort(chars);
+            temp = String.valueOf(chars);
+            if(!map.containsKey(temp))
+                map.put(temp,new ArrayList<String>());
+            map.get(temp).add(s);
+        }
+        return new ArrayList(map.values());
     }
 }
