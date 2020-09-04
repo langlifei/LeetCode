@@ -1,8 +1,6 @@
 package com.offer.codingInterviewGuide.LinkedList;
 
 import com.offer.sword.ListNode;
-import netscape.security.UserTarget;
-
 import java.util.Stack;
 
 /**

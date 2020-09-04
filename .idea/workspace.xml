@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="819c9ccc-7e7e-42db-bb41-b910b7d517bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/test/baidu0903/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/baidu0903/Main03.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.1\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-Xms128m  -Xmx512m" />
+  </component>
+  <component name="ProjectId" id="1YbIszihCwwsogMBsY0J2hMHtnD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAProjects\Offer\src\com\offer\leetcode\sword\easy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAProjects\Offer\src\com\offer\codingInterviewGuide\stackAndQueue" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="LinkedList04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.codingInterviewGuide.LinkedList.LinkedList04" />
+      <module name="Offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offer.codingInterviewGuide.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.meituan0822.Main01" />
+      <module name="Offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.meituan0822.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.yongyou0828.Solution01" />
+      <module name="Offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.yongyou0828.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.yongyou0828.Solution02" />
+      <module name="Offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.yongyou0828.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.test" />
+      <module name="Offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Solution01" />
+        <item itemvalue="Application.Main01" />
+        <item itemvalue="Application.Solution02" />
+        <item itemvalue="Application.LinkedList04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="819c9ccc-7e7e-42db-bb41-b910b7d517bc" name="Default Changelist" comment="" />
+      <created>1583205077306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583205077306</updated>
+      <workItem from="1583205080543" duration="3733000" />
+      <workItem from="1583287617746" duration="9579000" />
+      <workItem from="1583386469406" duration="1000" />
+      <workItem from="1583387808575" duration="13000" />
+      <workItem from="1583388042812" duration="733000" />
+      <workItem from="1583389033320" duration="56000" />
+      <workItem from="1583389302041" duration="5657000" />
+      <workItem from="1583462949957" duration="1456000" />
+      <workItem from="1583465128561" duration="11133000" />
+      <workItem from="1583547637782" duration="14103000" />
+      <workItem from="1583634964517" duration="7878000" />
+      <workItem from="1583715523493" duration="13856000" />
+      <workItem from="1583800879812" duration="4000" />
+      <workItem from="1583806134250" duration="188000" />
+      <workItem from="1583928259640" duration="11189000" />
+      <workItem from="1583979937727" duration="15000" />
+      <workItem from="1583988716706" duration="23000" />
+      <workItem from="1584023782869" duration="4351000" />
+      <workItem from="1584264689991" duration="43000" />
+      <workItem from="1584333702103" duration="4244000" />
+      <workItem from="1584404853280" duration="15084000" />
+      <workItem from="1584515068185" duration="11529000" />
+      <workItem from="1584626278075" duration="2360000" />
+      <workItem from="1584940431848" duration="6678000" />
+      <workItem from="1584949786155" duration="83000" />
+      <workItem from="1584973045348" duration="1465000" />
+      <workItem from="1585009546844" duration="14789000" />
+      <workItem from="1585120313762" duration="2248000" />
+      <workItem from="1585206772652" duration="71000" />
+      <workItem from="1585206871465" duration="235000" />
+      <workItem from="1586743982777" duration="7652000" />
+      <workItem from="1586761244176" duration="8666000" />
+      <workItem from="1586776149586" duration="15000" />
+      <workItem from="1586789003977" duration="3397000" />
+      <workItem from="1586828751113" duration="41000" />
+      <workItem from="1586858880455" duration="6021000" />
+      <workItem from="1586914883349" duration="16000" />
+      <workItem from="1587797282013" duration="3429000" />
+      <workItem from="1587861794261" duration="44000" />
+      <workItem from="1588038032420" duration="966000" />
+      <workItem from="1590301987947" duration="1956000" />
+      <workItem from="1590333979886" duration="2034000" />
+      <workItem from="1590371849875" duration="14000" />
+      <workItem from="1590382629774" duration="3142000" />
+      <workItem from="1590393132144" duration="11698000" />
+      <workItem from="1590419161949" duration="5562000" />
+      <workItem from="1590476103461" duration="17000" />
+      <workItem from="1590501053463" duration="6128000" />
+      <workItem from="1590562576103" duration="1418000" />
+      <workItem from="1590564021313" duration="25000" />
+      <workItem from="1590821174183" duration="4424000" />
+      <workItem from="1590833371354" duration="9218000" />
+      <workItem from="1591058857896" duration="2388000" />
+      <workItem from="1591169119163" duration="2312000" />
+      <workItem from="1591226729066" duration="27000" />
+      <workItem from="1591275625710" duration="3400000" />
+      <workItem from="1591430384173" duration="6928000" />
+      <workItem from="1591501152097" duration="22181000" />
+      <workItem from="1591946038136" duration="2108000" />
+      <workItem from="1591971931344" duration="1883000" />
+      <workItem from="1592009999522" duration="19356000" />
+      <workItem from="1592195602946" duration="1310000" />
+      <workItem from="1592207999096" duration="4056000" />
+      <workItem from="1592382166908" duration="41000" />
+      <workItem from="1592382449076" duration="147000" />
+      <workItem from="1592458243075" duration="13081000" />
+      <workItem from="1592622263079" duration="410000" />
+      <workItem from="1592743265889" duration="3068000" />
+      <workItem from="1593562239591" duration="1192000" />
+      <workItem from="1593563480733" duration="9706000" />
+      <workItem from="1593765181678" duration="12758000" />
+      <workItem from="1593839664782" duration="888000" />
+      <workItem from="1594277169242" duration="833000" />
+      <workItem from="1594898594809" duration="2735000" />
+      <workItem from="1594940113348" duration="1992000" />
+      <workItem from="1594955896230" duration="119000" />
+      <workItem from="1594956038868" duration="320000" />
+      <workItem from="1594956382909" duration="41000" />
+      <workItem from="1595127624978" duration="5965000" />
+      <workItem from="1595199961260" duration="1407000" />
+      <workItem from="1595207448035" duration="3000" />
+      <workItem from="1595207540700" duration="96000" />
+      <workItem from="1595285248573" duration="2021000" />
+      <workItem from="1595293237892" duration="55000" />
+      <workItem from="1595341834908" duration="1155000" />
+      <workItem from="1595386284347" duration="39000" />
+      <workItem from="1595421222320" duration="845000" />
+      <workItem from="1595465541715" duration="35000" />
+      <workItem from="1595935735593" duration="709000" />
+      <workItem from="1595984364416" duration="88000" />
+      <workItem from="1596852054293" duration="18865000" />
+      <workItem from="1597021144623" duration="399000" />
+      <workItem from="1597148055963" duration="1984000" />
+      <workItem from="1597195100191" duration="39000" />
+      <workItem from="1597328580122" duration="6521000" />
+      <workItem from="1597367621558" duration="599000" />
+      <workItem from="1597371688401" duration="5745000" />
+      <workItem from="1597384706154" duration="1990000" />
+      <workItem from="1597452607310" duration="16344000" />
+      <workItem from="1597544376321" duration="13059000" />
+      <workItem from="1597627078641" duration="1796000" />
+      <workItem from="1597668784883" duration="607000" />
+      <workItem from="1597716088525" duration="6072000" />
+      <workItem from="1597753242078" duration="4000" />
+      <workItem from="1597753256650" duration="7078000" />
+      <workItem from="1597799685699" duration="13229000" />
+      <workItem from="1597836526394" duration="4343000" />
+      <workItem from="1597885519961" duration="2478000" />
+      <workItem from="1597891602863" duration="6892000" />
+      <workItem from="1597907860801" duration="7988000" />
+      <workItem from="1597928762063" duration="3291000" />
+      <workItem from="1597971879717" duration="6899000" />
+      <workItem from="1598013633075" duration="2934000" />
+      <workItem from="1598067459686" duration="3813000" />
+      <workItem from="1598083308828" duration="17970000" />
+      <workItem from="1598230906732" duration="2177000" />
+      <workItem from="1598284497071" duration="605000" />
+      <workItem from="1598317379400" duration="14289000" />
+      <workItem from="1598418546926" duration="1516000" />
+      <workItem from="1598450962906" duration="2001000" />
+      <workItem from="1598490853430" duration="5370000" />
+      <workItem from="1598521471183" duration="256000" />
+      <workItem from="1598526392985" duration="2975000" />
+      <workItem from="1598580916819" duration="1349000" />
+      <workItem from="1598604591166" duration="4579000" />
+      <workItem from="1598863995819" duration="8137000" />
+      <workItem from="1598940223917" duration="2009000" />
+      <workItem from="1598969736305" duration="11124000" />
+      <workItem from="1599133290423" duration="2135000" />
+      <workItem from="1599191779296" duration="44000" />
+      <workItem from="1599192102565" duration="750000" />
+      <workItem from="1599193457582" duration="335000" />
+      <workItem from="1599196236086" duration="684000" />
+      <workItem from="1599212216674" duration="996000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1598971969078</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598971969079</updated>
+    </task>
+    <task id="LOCAL-00002" summary="20200903 a daily topic.">
+      <created>1599096750019</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599096750019</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="20200903 a daily topic." />
+    <option name="LAST_COMMIT_MESSAGE" value="20200903 a daily topic." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2517" height="404" key="GridCell.Tab.0.bottom" timestamp="1599196930179">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="404" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1599196930179" />
+    <state width="2517" height="404" key="GridCell.Tab.0.center" timestamp="1599196930179">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="404" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1599196930179" />
+    <state width="2517" height="404" key="GridCell.Tab.0.left" timestamp="1599196930179">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="404" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1599196930179" />
+    <state width="2517" height="404" key="GridCell.Tab.0.right" timestamp="1599196930179">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="404" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1599196930179" />
+    <state x="760" y="279" key="SettingsEditor" timestamp="1599196496561">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="760" y="279" key="SettingsEditor/0.0.2560.1410@0.0.2560.1410" timestamp="1599196496561" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/hard/findMedianSortedArrays01.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/hard/findMedianSortedArrays01.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/sword/FindMinLengthOfN.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/hard/findMedianSortedArrays01.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/sword/medium/机器人的运动范围13.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/sword/medium/表示数值的字符串20.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/test/meituan0822/Test02.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/codingInterviewGuide/recurrenceAndDP/岛屿数量.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/codingInterviewGuide/recurrenceAndDP/岛屿数量.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/codingInterviewGuide/LinkedList/相交链表160.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/test/yongyou0828/Main01.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/test/yongyou0828/Solution02.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/test/yongyou0828/Solution02.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
