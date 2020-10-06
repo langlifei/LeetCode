@@ -1,22 +1,32 @@
 package com.test;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class XJ0917 {
 
 
-    public void maxPrice(int[] array){
-        if(array == null || array.length <= 0)
-            return ;
-        int max = Integer.MIN_VALUE;//最大价值
-        int n = array.length;//长度
-        int[] pickUp = new int[n];//决策列表
-        int m = 1;//总能量
-        for(int i = 1 ; i < array.length ; i++){
+    public List<Integer> temp = new ArrayList<>();
 
-        }
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> list = new ArrayList<>();
+        if(nums == null || nums.length <= 0)
+            return list;
+        dfs(list,nums,0);
+        return list;
     }
 
-    public static void main(String[] args) {
-        XJ0917 test = new XJ0917();
-        test.maxPrice(new int[]{4,0,4,1,-3,4,3,2});
+    public void dfs(List<List<Integer>> list , int[] nums , int n){
+        if( n == nums.length){
+            list.add(new ArrayList<>(temp));
+            return;
+        }
+        //选当前节点
+        temp.add(nums[n]);
+        dfs(list,nums,n+1);
+        //不选当前节点
+        temp.remove((Integer) nums[n]);
+        dfs(list,nums,n+1);
     }
 }
