@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="819c9ccc-7e7e-42db-bb41-b910b7d517bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/offer/codingInterviewGuide/arrayAndMatrix/连续的子数组和523.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/offer/codingInterviewGuide/binTree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/offer/codingInterviewGuide/binTree/二叉搜索树中的众数501.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/offer/codingInterviewGuide/binTree/二叉搜索树的最近公共祖先235.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/offer/codingInterviewGuide/binTree/合并二叉树617.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/offer/codingInterviewGuide/binTree/填充每个节点的下一个右侧节点指针117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/offer/codingInterviewGuide/binTree/把二叉搜索树转换为累加树538.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/offer/codingInterviewGuide/binTree/根据一棵树的中序遍历与后序遍历构造二叉树106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/offer/codingInterviewGuide/binTree/路径总和113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/genwoxue0923/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/genwoxue0923/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/haoweilai0920/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/haoweilai0920/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/shenzhou0922/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/shenzhou0922/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/shuidi0926/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/shuidi0926/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/tongcheng0921/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/tongcheng0921/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/tongcheng0921/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/xiaomi0915/xiaomi1m/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/easy/找到小镇的法官_997.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/XJ0917.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/XJ0917.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignPattern" />
@@ -154,13 +134,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -348,6 +330,7 @@
       <workItem from="1601265072667" duration="2430000" />
       <workItem from="1601342820111" duration="2932000" />
       <workItem from="1601796340760" duration="24000" />
+      <workItem from="1639910021681" duration="808000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1598971969078</created>
