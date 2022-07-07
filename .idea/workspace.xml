@@ -1,9 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="819c9ccc-7e7e-42db-bb41-b910b7d517bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/easy/找到小镇的法官_997.java" afterDir="false" />
+    <list default="true" id="819c9ccc-7e7e-42db-bb41-b910b7d517bc" name="Default Changelist" comment="20200919 a daily topic.">
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/easy/IP地址无效化1108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/easy/从根到叶的二进制数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/easy/元素计数2148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/easy/按键持续时间最长的键_1629.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/easy/最小绝对差1200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/easy/高度检测器1051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/hard/Range模块715.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/medium/供暖器_475.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/medium/单词替换648.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/medium/变位词组1002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/medium/在每个树行中找最大值515.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/medium/对角线遍历498.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/medium/找到和为给定整数的三个连续整数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/medium/找数最左下角的值513.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/medium/整数中的KDiff数对532.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/medium/查找与替换模式890.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/medium/火柴拼正方形473.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/medium/爱生气的书店老板1052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/medium/航班预订统计1109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/medium/递增的三元子序列_334.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/leetcode/medium/重复叠加字符串匹配_686.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/other/LruCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/other/SuffixTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/sword/粉刷房子91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/util/StringUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/Sorts/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/Sorts/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/Sorts/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/Sorts/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/Sorts/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/Sorts/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/LinkedList/LinkedList01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/LinkedList/LinkedList01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/LinkedList/LinkedList02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/LinkedList/LinkedList02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/LinkedList/LinkedList03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/LinkedList/LinkedList03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/LinkedList/LinkedList04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/LinkedList/LinkedList04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/LinkedList/LinkedList05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/LinkedList/LinkedList05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/arrayAndMatrix/Array01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/arrayAndMatrix/Array01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/arrayAndMatrix/Array03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/arrayAndMatrix/Array03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/arrayAndMatrix/Array05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/arrayAndMatrix/Array05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/arrayAndMatrix/Array06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/arrayAndMatrix/Array06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/arrayAndMatrix/Array08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/arrayAndMatrix/Array08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/arrayAndMatrix/Array09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/arrayAndMatrix/Array09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/arrayAndMatrix/Array10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/arrayAndMatrix/Array10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/binTree/Tree02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/binTree/Tree02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/binTree/Tree03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/binTree/Tree03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/binTree/Tree05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/binTree/Tree05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/binTree/traverse/unRecur/InOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/binTree/traverse/unRecur/InOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/binTree/traverse/unRecur/PostOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/binTree/traverse/unRecur/PostOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/binTree/traverse/unRecur/PreOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/binTree/traverse/unRecur/PreOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/others/Other01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/others/Other01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/others/Other04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/others/Other04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/others/Others07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/others/Others07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/recurrenceAndDP/DP15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/stackAndQueue/Attendance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/stackAndQueue/Attendance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/stackAndQueue/HfmTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/stackAndQueue/HfmTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/stackAndQueue/Queue01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/stackAndQueue/Queue01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/stackAndQueue/Queue1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/stackAndQueue/Queue1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/stackAndQueue/stack02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/stackAndQueue/stack02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/stackAndQueue/stack04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/stackAndQueue/stack04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/string/String01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/string/String01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/string/String02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/string/String02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/string/String03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/string/String03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/string/String04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/codingInterviewGuide/string/String04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/easy/String01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/easy/String01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/easy/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/easy/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/easy/TwoSum01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/easy/TwoSum01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/easy/合并两个有序链表21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/easy/合并两个有序链表21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/easy/最长公共前缀14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/easy/最长公共前缀14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/easy/罗马数字转整数13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/easy/罗马数字转整数13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/hard/K个一组翻转链表25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/hard/K个一组翻转链表25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/hard/findMedianSortedArrays01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/hard/findMedianSortedArrays01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/hard/合并K个排序链表23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/hard/合并K个排序链表23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/AddTwoNumbers01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/AddTwoNumbers01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/LengthOfLongestSubString02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/LengthOfLongestSubString02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/LongestPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/String01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/String01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/Z字形变换06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/Z字形变换06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/三数之和15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/三数之和15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/两两交换链表中的节点24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/两两交换链表中的节点24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/删除链表的倒数第N个节点19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/删除链表的倒数第N个节点19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/四数之和18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/四数之和18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/字符串转换为整数08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/字符串转换为整数08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/整数转罗马数字12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/整数转罗马数字12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/最接近的三数之和16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/最接近的三数之和16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/电话号码的字母组合17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/medium/电话号码的字母组合17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/easy/Attendance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/easy/Attendance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/easy/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/easy/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/easy/删除链表的节点18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/easy/删除链表的节点18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/easy/反转链表24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/easy/反转链表24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/easy/合并两个排序的链表25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/easy/合并两个排序的链表25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/easy/用两个栈实现队列09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/easy/用两个栈实现队列09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/easy/链表中倒数第k个节点22$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/easy/链表中倒数第k个节点22$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/medium/复杂链表的复制35.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/leetcode/sword/medium/复杂链表的复制35.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/BinTree04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/BinTree04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/FindKthToTail13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/FindKthToTail13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/FindMinLengthOfN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/FindMinLengthOfN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/LinkList03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/LinkList03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/Merge14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/Merge14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/NumberOf1_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/NumberOf1_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/PrintMatrix19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/PrintMatrix19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/ReverseList13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/ReverseList13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/Stack05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/Stack05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/Stack20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/Stack20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/array01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/sword/array01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/offer/util/LinkedListUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/offer/util/LinkedListUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/test/baidu0903/Main01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/test/baidu0903/Main01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/test/meituan0822/Main01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/test/meituan0822/Main01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/test/meituan0822/Main02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/test/meituan0822/Main02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/test/meituan0822/Test03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/test/meituan0822/Test03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/test/yongyou0828/Solution01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/test/yongyou0828/Solution01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Offer/com/test/yongyou0828/Solution02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Offer/com/test/yongyou0828/Solution02.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +134,23 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../Program Files/Java/jdk1.8.0_152/src.zip!/java/util/AbstractList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/ConcurrentHashMap.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/locks/Lock.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../Program Files/Java/jdk1.8.0_152/src.zip!/java/util/ArrayList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/locks/ReentrantLock.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -47,7 +178,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignPattern" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,7 +189,10 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -68,13 +202,13 @@
       <recent name="D:\IDEAProjects\Offer\src\com\offer\codingInterviewGuide\stackAndQueue" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array12">
-    <configuration name="Array12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.codingInterviewGuide.arrayAndMatrix.Array12" />
+  <component name="RunManager" selected="Application.Solution648">
+    <configuration name="Solution1108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.leetcode.easy.Solution1108" />
       <module name="Offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.offer.codingInterviewGuide.arrayAndMatrix.*" />
+          <option name="PATTERN" value="com.offer.leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.tongcheng0921.Test01" />
+    <configuration name="Solution1109" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.leetcode.medium.Solution1109" />
       <module name="Offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.tongcheng0921.*" />
+          <option name="PATTERN" value="com.offer.leetcode.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.shenzhou0922.Test01" />
+    <configuration name="Solution648" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.leetcode.medium.Solution648" />
       <module name="Offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.shenzhou0922.*" />
+          <option name="PATTERN" value="com.offer.leetcode.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.xiaomi0915.xiaomi1m.Test01" />
+    <configuration name="Solution91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.sword.Solution91" />
       <module name="Offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.xiaomi0915.xiaomi1m.*" />
+          <option name="PATTERN" value="com.offer.sword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.shenzhou0922.Test02" />
+    <configuration name="SuffixTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.other.SuffixTree" />
       <module name="Offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.shenzhou0922.*" />
+          <option name="PATTERN" value="com.offer.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,25 +268,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test02 (1)" />
-        <item itemvalue="Application.Test01 (2)" />
-        <item itemvalue="Application.Test01 (1)" />
-        <item itemvalue="Application.Array12" />
+        <item itemvalue="Application.Solution648" />
+        <item itemvalue="Application.Solution91" />
+        <item itemvalue="Application.SuffixTree" />
+        <item itemvalue="Application.Solution1109" />
+        <item itemvalue="Application.Solution1108" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +463,33 @@
       <workItem from="1601265072667" duration="2430000" />
       <workItem from="1601342820111" duration="2932000" />
       <workItem from="1601796340760" duration="24000" />
-      <workItem from="1639910021681" duration="808000" />
+      <workItem from="1639910021681" duration="1625000" />
+      <workItem from="1640002895128" duration="2613000" />
+      <workItem from="1640171536289" duration="2605000" />
+      <workItem from="1641718880916" duration="649000" />
+      <workItem from="1641729299435" duration="13000" />
+      <workItem from="1641993721440" duration="2117000" />
+      <workItem from="1642925833877" duration="45000" />
+      <workItem from="1644936611856" duration="791000" />
+      <workItem from="1645021220158" duration="235000" />
+      <workItem from="1654923001010" duration="4873000" />
+      <workItem from="1655023808193" duration="2692000" />
+      <workItem from="1655122201561" duration="8973000" />
+      <workItem from="1655187519933" duration="7624000" />
+      <workItem from="1655218956848" duration="3389000" />
+      <workItem from="1655266187208" duration="12572000" />
+      <workItem from="1655351282873" duration="6699000" />
+      <workItem from="1655698345921" duration="2504000" />
+      <workItem from="1655784940259" duration="3748000" />
+      <workItem from="1655873594077" duration="2428000" />
+      <workItem from="1655972351759" duration="53000" />
+      <workItem from="1655972541764" duration="6950000" />
+      <workItem from="1656050805827" duration="151000" />
+      <workItem from="1656060013516" duration="2973000" />
+      <workItem from="1656125021857" duration="2545000" />
+      <workItem from="1656911020886" duration="2450000" />
+      <workItem from="1657015220187" duration="79000" />
+      <workItem from="1657171637820" duration="5262000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1598971969078</created>
@@ -353,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600487515033</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20200919 a daily topic.">
+      <created>1639910853861</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639910853861</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,194 +544,173 @@
     <MESSAGE value="20200919 a daily topic." />
     <option name="LAST_COMMIT_MESSAGE" value="20200919 a daily topic." />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="0" y="0" key="#Auto_Import" timestamp="1599382477636">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="0" y="0" key="#Auto_Import/0.0.1536.834@0.0.1536.834" timestamp="1599382477636" />
-    <state x="1718" y="410" key="#com.intellij.ide.util.MemberChooser" timestamp="1601266882397">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state x="1718" y="410" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1410@0.0.2560.1410" timestamp="1601266882397" />
-    <state x="989" y="297" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1600865596424">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="989" y="297" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.834@0.0.1536.834" timestamp="1600865596424" />
-    <state x="878" y="272" key="CommitChangelistDialog2" timestamp="1600487506352">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state x="878" y="272" key="CommitChangelistDialog2/0.0.2560.1410@0.0.2560.1410" timestamp="1600487506352" />
-    <state width="438" height="276" key="DebuggerActiveHint" timestamp="1600775417927">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="438" height="276" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1600775417927" />
-    <state width="418" height="466" key="DebuggerActiveHint/0.0.2560.1410@0.0.2560.1410" timestamp="1600241987601" />
-    <state x="1473" y="491" key="FileChooserDialogImpl" timestamp="1601796363522">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state x="1473" y="491" key="FileChooserDialogImpl/0.0.2560.1410@0.0.2560.1410" timestamp="1601796363522" />
-    <state width="1493" height="135" key="GridCell.Tab.0.bottom" timestamp="1600830511155">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1342" height="143" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600829459432" />
-    <state width="1493" height="135" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1600830511155" />
-    <state width="1493" height="135" key="GridCell.Tab.0.center" timestamp="1600830511155">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1342" height="143" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600829459432" />
-    <state width="1493" height="135" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1600830511155" />
-    <state width="1493" height="135" key="GridCell.Tab.0.left" timestamp="1600830511155">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1342" height="143" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600829459432" />
-    <state width="1493" height="135" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1600830511155" />
-    <state width="1493" height="135" key="GridCell.Tab.0.right" timestamp="1600830511155">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1342" height="143" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600829459432" />
-    <state width="1493" height="135" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1600830511155" />
-    <state width="1493" height="135" key="GridCell.Tab.1.bottom" timestamp="1600830511156">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1493" height="135" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600829371365" />
-    <state width="1493" height="135" key="GridCell.Tab.1.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1600830511156" />
-    <state width="1493" height="135" key="GridCell.Tab.1.center" timestamp="1600830511156">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1493" height="135" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1600829371365" />
-    <state width="1493" height="135" key="GridCell.Tab.1.center/0.0.2560.1410@0.0.2560.1410" timestamp="1600830511156" />
-    <state width="1493" height="135" key="GridCell.Tab.1.left" timestamp="1600830511156">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1493" height="135" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1600829371365" />
-    <state width="1493" height="135" key="GridCell.Tab.1.left/0.0.2560.1410@0.0.2560.1410" timestamp="1600830511156" />
-    <state width="1493" height="135" key="GridCell.Tab.1.right" timestamp="1600830511156">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state width="1493" height="135" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1600829371365" />
-    <state width="1493" height="135" key="GridCell.Tab.1.right/0.0.2560.1410@0.0.2560.1410" timestamp="1600830511156" />
-    <state x="1" y="238" key="RollbackChangesDialog" timestamp="1601089468609">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="1" y="238" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1601089468609" />
-    <state x="760" y="279" key="SettingsEditor" timestamp="1599215378454">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state x="760" y="279" key="SettingsEditor/0.0.2560.1410@0.0.2560.1410" timestamp="1599215378454" />
-    <state x="908" y="443" key="Vcs.Push.Dialog.v2" timestamp="1600487518553">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state x="908" y="443" key="Vcs.Push.Dialog.v2/0.0.2560.1410@0.0.2560.1410" timestamp="1600487518553" />
-    <state x="412" y="194" width="947" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600170646019">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="412" y="194" width="947" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1600170646019" />
-    <state x="602" y="208" key="new project wizard" timestamp="1599570653656">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state x="602" y="208" key="new project wizard/0.0.2560.1410@0.0.2560.1410" timestamp="1599570653656" />
-    <state x="1356" y="731" width="672" height="678" key="search.everywhere.popup" timestamp="1601001170699">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state x="1356" y="731" width="672" height="678" key="search.everywhere.popup/0.0.2560.1410@0.0.2560.1410" timestamp="1601001170699" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/offer/leetcode/hard/findMedianSortedArrays01.java</url>
           <line>43</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/offer/leetcode/hard/findMedianSortedArrays01.java</url>
           <line>16</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/offer/sword/FindMinLengthOfN.java</url>
           <line>17</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/offer/leetcode/hard/findMedianSortedArrays01.java</url>
           <line>103</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/offer/leetcode/sword/medium/机器人的运动范围13.java</url>
           <line>17</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/offer/leetcode/sword/medium/表示数值的字符串20.java</url>
           <line>34</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/test/meituan0822/Test02.java</url>
           <line>27</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/offer/codingInterviewGuide/recurrenceAndDP/岛屿数量.java</url>
           <line>19</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/offer/codingInterviewGuide/recurrenceAndDP/岛屿数量.java</url>
           <line>30</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/offer/codingInterviewGuide/LinkedList/相交链表160.java</url>
           <line>19</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/test/yongyou0828/Main01.java</url>
           <line>47</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/test/yongyou0828/Solution02.java</url>
           <line>23</line>
           <option name="timeStamp" value="71" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/test/yongyou0828/Solution02.java</url>
           <line>26</line>
           <option name="timeStamp" value="73" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/test/tonghuashun0905/Solution1.java</url>
           <line>18</line>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/test/xiaomi0915/Test01.java</url>
           <line>44</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/offer/codingInterviewGuide/arrayAndMatrix/螺旋矩阵2.java</url>
           <line>14</line>
           <option name="timeStamp" value="83" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/offer/codingInterviewGuide/arrayAndMatrix/螺旋矩阵2.java</url>
           <line>21</line>
           <option name="timeStamp" value="84" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/test/tongcheng0921/Test01.java</url>
           <line>30</line>
           <option name="timeStamp" value="92" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/com/test/shenzhou0922/Test02.java</url>
           <line>16</line>
           <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/medium/重复叠加字符串匹配_686.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/medium/递增的三元子序列_334.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/easy/高度检测器1051.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/medium/爱生气的书店老板1052.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/medium/爱生气的书店老板1052.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/medium/对角线遍历498.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/medium/对角线遍历498.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/medium/对角线遍历498.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/medium/火柴拼正方形473.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../Program Files/Java/jdk1.8.0_152/src.zip!/java/util/ArrayList.java</url>
+          <line>223</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/medium/航班预订统计1109.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/other/SuffixTree.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/sword/粉刷房子91.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/leetcode/medium/单词替换648.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="138" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.EmptyStackException" package="java.util" />
